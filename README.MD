@@ -11,6 +11,8 @@ Esta API permite gerenciar pedidos através de operações CRUD.
 ## H2 conectado 
 ![alt text](image-1.png)
 
+
+
 ## Endpoints
 
 ### `GET /pedidos` → Lista todos os pedidos.
