@@ -12,9 +12,7 @@ Esta API permite gerenciar pedidos através de operações CRUD.
 ![alt text](image-1.png)
 
 
-
 # Endpoints
-
 ## `GET /pedidos` → Lista todos os pedidos.
 ![alt text](image-3.png)
 
@@ -30,7 +28,6 @@ Esta API permite gerenciar pedidos através de operações CRUD.
 
 ## `DELETE /pedidos/{id}` → Remove um pedido. (pedido 1 não exixte mais)
 ![alt text](image-7.png)
-
 ## `DELETE /pedidos/{id}` listagem sem o pedido 1 que foi deletado
 ![alt text](image-8.png)
 
