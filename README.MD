@@ -30,7 +30,7 @@ Esta API permite gerenciar pedidos através de operações CRUD.
 
 ## `DELETE /pedidos/{id}` → Remove um pedido. (pedido 1 não exixte mais)
 ![alt text](image-7.png)
-### listagem sem o pedido 1 deletado
+### listagem sem o pedido 1 que foi deletado
 ![alt text](image-8.png)
 
 # Resultado final do H2
